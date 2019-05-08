@@ -1,0 +1,17 @@
+//Programs for these string functions are provided as q1,q2 etc based on the function number below
+1. String constructor
+2. length()
+3. toString()
+4. charAt()
+5. getChars()
+6. getBytes()
+7. toCharArray()
+8. equals() and equalsIgnoreCase()
+9. regionMatches()
+10. startsWith() and endsWith()
+11. compareTo()
+12. indexOf() and lastIndexOf()
+13. substring()
+14. concat(), replace(), trim()
+15. valueOf()
+16. toUpperCase() and toLowerCase()
